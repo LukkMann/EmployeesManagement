@@ -1,5 +1,7 @@
 Employee Management System using C# and ASP.NET
 
+Database using MS SQL server
+
 Design using AdminLTE
 
 Features:
